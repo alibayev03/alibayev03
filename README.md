@@ -53,4 +53,4 @@
 ### 🐍 Анимация вклада
 ```markdown
 <!-- Змейка -->
-![snake](https://github.com/FARXUX_USERNAME/alibayev03/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/alibayev03/alibayev03/blob/output/github-contribution-grid-snake.svg)
