@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">🤖 Привет, я Farrux </h1>
 
 <p align="center">
@@ -42,6 +40,13 @@
 
 ---
 
+### 🐍 Анимация вклада
+
+<!-- Змейка -->
+![snake](https://github.com/alibayev03/alibayev03/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🔗 Соцсети и контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadullaevich_f)
@@ -50,7 +55,5 @@
 
 ---
 
-### 🐍 Анимация вклада
-```markdown
-<!-- Змейка -->
-![snake](https://github.com/alibayev03/alibayev03/blob/output/github-contribution-grid-snake.svg)
+## 🔥 Девиз
+> "230-й игрок не сдался — и я тоже не сдамся. Код до конца!" 🦾
