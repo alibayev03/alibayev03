@@ -43,7 +43,8 @@
 ### 🐍 Анимация вклада
 
 <!-- Змейка -->
-![snake](https://github.com/alibayev03/alibayev03/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/alibayev03/alibayev03/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ---
