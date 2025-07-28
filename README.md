@@ -2,7 +2,7 @@
 
 <p align="center">
   🖤 Фанат игрока <strong>№230</strong> из "Игры в кальмара"<br>
-  💻 Full-Stack разработчик | 🎮 Геймдев на Unity | 🤖 Telegram-боты<br>
+  💻 Full-Stack разработчик | 🎮 Геймдев на Unity | 🤖 Telegram-боты | 🛡️ Сисадмин<br>
   🎓 Выпускник <strong>KIUT (Корея-Узбекистанский университет)</strong> — 2025
 </p>
 
@@ -11,8 +11,9 @@
 ### 🔥 Обо мне
 - 🧠 Думаю как разработчик, двигаюсь как дизайнер  
 - 🛠 Люблю писать Telegram-ботов, игры на Unity, веб-приложения  
+- ⚙️ Разбираюсь в системном администрировании, серверах и хостинге  
 - 📲 Работаю с PHP, JavaScript, Python, C#, SQL  
-- 🌐 Свободно ориентируюсь в фронтенде, бэкенде и админках  
+- 🌐 Свободно ориентируюсь в фронтенде, бэкенде, админках и CLI  
 - 💬 Моя цель — кодить как зверь, который не видит преград  
 
 ---
@@ -26,6 +27,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -40,11 +44,6 @@
 
 ---
 
-
-
-
----
-
 ### 🔗 Соцсети и контакты
 
 ## 🌐 Связаться со мной / Мои профили:
@@ -54,6 +53,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadullaevich_f/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198980096761/friends/)
 
+---
 
-## 🔥 Девиз
+## 🔥 Девиз  
 > "230-й игрок не сдался — и я тоже не сдамся. Код до конца!" 🦾
