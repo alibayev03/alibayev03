@@ -1,24 +1,25 @@
-<h1 align="center">🤖 Привет, я Farrux </h1>
+<h1 align="center">🤖 Hi, I’m Farrux </h1>
 
 <p align="center">
-  🖤 Фанат игрока <strong>№230</strong> из "Игры в кальмара"<br>
-  💻 Full-Stack разработчик | 🎮 Геймдев на Unity | 🤖 Telegram-боты | 🛡️ Сисадмин<br>
-  🎓 Выпускник <strong>KIUT (Корея-Узбекистанский университет)</strong> — 2025
+  🖤 Fan of <strong>Player 230</strong> from <em>Squid Game</em><br>
+  💻 Full-Stack Developer | 🎮 Game Dev (Unity) | 🤖 Telegram Bots | 🛡️ SysAdmin & Cybersecurity<br>
+  🎓 Master’s Student (1st year), <strong>KIUT – Korea International University in Tashkent</strong> — Class of 2025
 </p>
 
 ---
 
-### 🔥 Обо мне
-- 🧠 Думаю как разработчик, двигаюсь как дизайнер  
-- 🛠 Люблю писать Telegram-ботов, игры на Unity, веб-приложения  
-- ⚙️ Разбираюсь в системном администрировании, серверах и хостинге  
-- 📲 Работаю с PHP, JavaScript, Python, C#, SQL  
-- 🌐 Свободно ориентируюсь в фронтенде, бэкенде, админках и CLI  
-- 💬 Моя цель — кодить как зверь, который не видит преград  
+### 🔥 About Me
+- 🧠 I think like a developer, move like a designer  
+- 🛠 Passionate about building Telegram bots, Unity games, and web applications  
+- ⚙️ Skilled in system administration, servers, hosting, and deployment  
+- 📲 Working with PHP, JavaScript, Python, C#, SQL  
+- 🌐 Confident in frontend, backend, admin panels, and CLI  
+- 🔐 Exploring **Cybersecurity, Ethical Hacking & Network Security**  
+- 🎯 My goal — to code fearlessly, like a warrior with no limits  
 
 ---
 
-### 🛠 Мои навыки и инструменты
+### 🛠 Skills & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,10 +31,11 @@
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=protonvpn&logoColor=white)
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alibayev03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -44,9 +46,7 @@
 
 ---
 
-### 🔗 Соцсети и контакты
-
-## 🌐 Связаться со мной / Мои профили:
+### 🔗 Socials & Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadullaevich_f)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alibayev)
@@ -55,5 +55,6 @@
 
 ---
 
-## 🔥 Девиз  
-> "230-й игрок не сдался — и я тоже не сдамся. Код до конца!" 🦾
+## 🔥 Motto  
+> “Player 230 never gave up — neither will I.  
+> In code and in cybersecurity, I fight to the end.” 🦾
